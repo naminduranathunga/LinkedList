@@ -1,0 +1,8 @@
+Makefile
+main.exe
+.vscode
+.CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+doc/xml
+doc/api.md
